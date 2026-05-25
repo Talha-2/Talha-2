@@ -1,10 +1,20 @@
 <div align="center">
 
-# Talha Razzaq
+```
+ ████████╗ █████╗ ██╗     ██╗  ██╗ █████╗     ██████╗  █████╗ ███████╗███████╗ █████╗  ██████╗
+ ╚══██╔══╝██╔══██╗██║     ██║  ██║██╔══██╗    ██╔══██╗██╔══██╗╚══███╔╝╚══███╔╝██╔══██╗██╔═══██╗
+    ██║   ███████║██║     ███████║███████║    ██████╔╝███████║  ███╔╝   ███╔╝ ███████║██║   ██║
+    ██║   ██╔══██║██║     ██╔══██║██╔══██║    ██╔══██╗██╔══██║ ███╔╝   ███╔╝ ██╔══██║██║▄▄ ██║
+    ██║   ██║  ██║███████╗██║  ██║██║  ██║    ██║  ██║██║  ██║███████╗███████╗██║  ██║╚██████╔╝
+    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚══▀▀═╝
+```
 
-**Junior AI Engineer · Computer Engineering @ NUST**
+**Junior AI Engineer · Computer Engineering @ NUST · Builder of Agentic Systems**
 
-[trazzaq744@gmail.com](mailto:trazzaq744@gmail.com) · [Portfolio](https://talha-razzaq.netlify.app/) · [LinkedIn](https://linkedin.com/in/talha-razzaq7) · [GitHub](https://github.com/talha-2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-talha--razzaq.netlify.app-black?style=flat-square&logo=netlify&logoColor=white)](https://talha-razzaq.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-talha--razzaq7-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-razzaq7)
+[![Email](https://img.shields.io/badge/Email-trazzaq744@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:trazzaq744@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-talha--2-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/talha-2)
 
 </div>
 
@@ -12,14 +22,17 @@
 
 ## About
 
-I build autonomous AI systems — multi-agent pipelines, voice-based assistants, and real-time computer vision applications. Currently working as a Junior AI Engineer at Zikra Info Tech LLC, focused on agentic workflows and LLM-powered products.
+I build systems that think. My work spans **agentic AI pipelines**, **voice-based assistants**, **real-time computer vision**, and **embedded deployments** — from idea to production.
+
+Currently a Junior AI Engineer at **Zikra Info Tech LLC**, where I build autonomous workflows, LLM-powered products, and evaluation frameworks that make AI reliable in the real world.
 
 ```python
-{
-  "role"      : "Junior AI Engineer @ Zikra Info Tech LLC",
-  "education" : "B.E. Computer Engineering — NUST (2022–present)",
-  "focus"     : ["Agentic AI", "LLMs", "Computer Vision", "Embedded Systems"],
-  "location"  : "Islamabad, Pakistan"
+talha = {
+    "role"      : "Junior AI Engineer @ Zikra Info Tech LLC",
+    "education" : "B.E. Computer Engineering — NUST (2022–present)",
+    "focus"     : ["Agentic AI", "LLMs", "Computer Vision", "Embedded ML"],
+    "currently" : "Building Clave — an AI-native project management platform",
+    "location"  : "Islamabad, Pakistan"
 }
 ```
 
@@ -27,39 +40,63 @@ I build autonomous AI systems — multi-agent pipelines, voice-based assistants,
 
 ## Tech Stack
 
-**AI / ML** — LangChain, LangGraph, TensorFlow, OpenCV, scikit-learn, Kaldi, MediaPipe, FAISS, RAG
+**AI & ML**
 
-**Languages** — Python, TypeScript, C++, Verilog
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-blue?style=flat-square)
+![Kaldi](https://img.shields.io/badge/Kaldi-ASR-3D5A80?style=flat-square)
 
-**Web & Backend** — Next.js, FastAPI, Convex, Docker, Laravel
+**Web & Backend**
 
-**Infra & Observability** — LangFuse, Deepgram, LiveKit, OpenTelemetry
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-**Embedded / IoT** — Raspberry Pi, STM32, LoRaWAN
+**Infra & Voice**
+
+![LangFuse](https://img.shields.io/badge/LangFuse-Observability-7C3AED?style=flat-square)
+![Deepgram](https://img.shields.io/badge/Deepgram-Speech_AI-13EF93?style=flat-square)
+![LiveKit](https://img.shields.io/badge/LiveKit-Real--Time-F97316?style=flat-square)
+
+**Embedded & IoT**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-IoT-4CAF50?style=flat-square)
 
 ---
 
-## Projects
+## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Clave](https://clave.z360.biz)** | AI-native project management — issue tracking, collaborative docs, autonomous agents | Next.js 16, Convex, TypeScript, RAG |
-| **Quorum** | Multi-agent research workbench: knowledge graph → LLM personas → structured debate → report | FastAPI, LangChain, d3-force, Docker |
-| **ORBI** | AI assistant over 10+ productivity apps via natural language (Gmail, Slack, GitHub, Notion) | Next.js 16, Gemini 2.5, Composio, Convex |
-| **Sign Language Recognition** | Real-time ASL detection — CNN for static gestures, LSTM for dynamic sequences | OpenCV, MediaPipe, TensorFlow, Streamlit |
-| **Santander ML Competition** | ROC-AUC 0.924 on 200K-row banking dataset (+0.136 over logistic regression baseline) | LightGBM, SHAP, scikit-learn |
-| **Phoneme Speech Recognizer** | Pronunciation assessment pipeline on Raspberry Pi — 7% PER, <350ms inference | Kaldi, C++, GMM-HMM, MFCC |
-| **Self-Driving Car Simulation** | Classical CV pipeline for lane detection and obstacle avoidance on Raspberry Pi | OpenCV, Python, Multithreading |
-| **WBC Classifier** | Rule-based CV pipeline classifying 5 white blood cell types from blood smear images | OpenCV, K-Means, HOG |
+| Project                                | What it does                                                                                                                                  | Stack                                    |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **[Clave](https://clave.z360.biz)** | AI-native project management — issue tracking, real-time collaborative docs, and autonomous agents. Built end-to-end.                        | Next.js 16, Convex, TypeScript, RAG      |
+| **Quorum**                       | Converts a research brief into a knowledge graph, spawns 12 LLM personas, and runs a structured multi-round debate to generate a final report | FastAPI, LangChain, d3-force, Docker     |
+| **ORBI**                         | Natural-language AI assistant connected to 10+ apps (Gmail, Slack, GitHub, Notion, Jira) via Composio OAuth, with multi-step tool calling     | Next.js 16, Gemini 2.5, Convex, LangFuse |
+| **Sign Language Recognition**    | Real-time ASL detection — CNN for static A–Z gestures, LSTM for dynamic sequences — deployed as a live Streamlit app                       | OpenCV, MediaPipe, TensorFlow, Keras     |
+| **Santander ML Competition**     | End-to-end ML pipeline on 200K-row banking data, achieving ROC-AUC 0.924 (+0.136 over logistic regression baseline)                           | LightGBM, SHAP, scikit-learn             |
+| **Phoneme Speech Recognizer**    | Pronunciation assessment pipeline with 7% PER deployed on Raspberry Pi at under 350ms inference                                               | Kaldi, C++, GMM-HMM, MFCC, LDA/MLLT      |
+| **Self-Driving Car Simulation**  | Lane detection and obstacle avoidance using classical CV on Raspberry Pi with PiCamera                                                        | OpenCV, Python, Multithreading           |
+| **WBC Classifier**               | Rule-based pipeline classifying 5 white blood cell types from blood smear images — no ML framework                                           | OpenCV, K-Means, HOG, HSV                |
 
 ---
 
 ## GitHub Stats
 
-<div align="center">
+> **Note:** If the cards below don't load, GitHub caches images — try a hard refresh (`Ctrl+Shift+R`). Stats are served via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
-![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=talha-2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talha-2&layout=compact&theme=tokyonight&hide_border=true)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=talha-2&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
@@ -67,14 +104,17 @@ I build autonomous AI systems — multi-agent pipelines, voice-based assistants,
 
 ## Experience
 
-**Junior AI Engineer** — Zikra Info Tech LLC *(Aug 2025 – Present)*
-- Built agentic AI systems using LangGraph and BrowserUse, reducing manual intervention by 30%
-- Developed voice and text-based customer support agents using Deepgram and LiveKit
-- Led end-to-end development of Clave, an AI-native project management platform
+**Junior AI Engineer** — Zikra Info Tech LLC, Islamabad *(Aug 2025 – Present)*
 
-**Director** — Google Developers Student Club, NUST *(Sep 2023 – Sep 2024)*
-- Grew student participation by 40% through cloud, AI, and IoT workshops
-- Mentored 100+ students, driving a measurable increase in internship placements
+- Built agentic AI systems using LangGraph and BrowserUse, cutting manual intervention by 30%
+- Engineered voice and text-based sales & support agents using Deepgram and LiveKit
+- Developed Laravel MCP tools giving AI agents autonomous access to business analytics APIs
+- Led open-source development of **Clave** — owned architecture, development, and delivery end-to-end
+
+**Director** — Google Developers Student Club (GDSC), NUST *(Sep 2023 – Sep 2024)*
+
+- Grew student participation by 40% through hands-on cloud, AI, and IoT workshops
+- Mentored 100+ students, with a measurable increase in internship placements
 
 ---
 
@@ -89,6 +129,8 @@ I build autonomous AI systems — multi-agent pipelines, voice-based assistants,
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=talha-2&color=6366f1&style=flat-square&label=Profile+Views)
+*"Build systems that think, not just systems that run."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=talha-2&color=0A66C2&style=flat-square&label=Profile+Views)
 
 </div>
